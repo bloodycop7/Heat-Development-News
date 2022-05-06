@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Heat Development
 
 You can use the [editor on GitHub](https://github.com/iamSkay2752/news-heat/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

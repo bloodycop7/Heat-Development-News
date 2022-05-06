@@ -1,5 +1,7 @@
 # Heat Development
 
+## [Our Discord](https://discord.gg/qHvwRbthP7) [My Github](https://github.com/iamSkay2752)
+
 ### 1.0.0
 
    *  HUD
